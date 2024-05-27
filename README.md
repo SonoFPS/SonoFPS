@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Estou estudando no Alura
+Estou se desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos
+
 <!--
 **SonoFPS/SonoFPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
